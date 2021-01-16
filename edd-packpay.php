@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Gateway Packpay Easy Digital Downloads
+ * Plugin Name: درگاه پرداخت پکپی برای افزونه easy digital download
  * Author: packpay
  * Description:  این افزونه، درگاه پرداخت پکپی را برای Easy Digital Downloads فعال میکند
- * Version: 0.1
+ * Version: 1.0
  * Author URI: https://packpay.ir
  */
 
